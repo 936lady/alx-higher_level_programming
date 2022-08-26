@@ -1,2 +1,3 @@
 # alx-higher_level_programming
-Py
+Python projects 
+0x00. 
