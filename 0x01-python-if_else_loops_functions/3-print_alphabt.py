@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-number = 97
-while number <= 122:
-    if number != ord('q') and number != ord('e'):
-        print("{}".format(chr(number)), end="")
-    number += 1
+for i in range(97, 123):
+    if chr(i) != 'q' and chr(i) != 'e':
+        print("{}".format(chr(i)), end='')
