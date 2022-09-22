@@ -4,5 +4,15 @@ Python projects
 0x01.  python-if_else_loops_functions
 0x02. python-import_modules
 0x03. Python - Data Structures: Lists, Tuples
+0x04-python-more_data_structures
+0x05-python-exceptions
+0x06-python-classes
+0x07-python-test_driven_development
+0x08-python-more_classes
+0x09-python-everything_is_object
+
+
+
+
 
 😍️Margolita
